@@ -12,7 +12,7 @@ import datetime
 
 import logging
 
-TOKEN = '7464862053:AAHSV6206EACg9glgf2goZF5eJW6y0SjEy8'
+TOKEN = token
 
 bot = Bot(TOKEN)
 dp = Dispatcher(bot)
